@@ -5,13 +5,13 @@ import { GoogleAuthProvider } from "firebase/auth";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBUULVUniwhXmOocVx0VYze3ED0D-lIX2Y",
-  authDomain: "facebook-clone-by-mladen.firebaseapp.com",
-  projectId: "facebook-clone-by-mladen",
-  storageBucket: "facebook-clone-by-mladen.appspot.com",
-  messagingSenderId: "909377873418",
-  appId: "1:909377873418:web:2cc3c7c5aa54fd2cf6e1f3",
-  measurementId: "G-PLN8CKQB3H",
+  apiKey: "AIzaSyDAP7RmdkJxusvR4sU8prEfMIRfUH1UQBw",
+  authDomain: "fb-clone-by-mladen.firebaseapp.com",
+  projectId: "fb-clone-by-mladen",
+  storageBucket: "fb-clone-by-mladen.appspot.com",
+  messagingSenderId: "1096434679488",
+  appId: "1:1096434679488:web:ece06e17a590d4d702f725",
+  measurementId: "G-BH7517291R"
 };
 
 const app = initializeApp(firebaseConfig);
